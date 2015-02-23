@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pedometer</string>
+    <string name="action_settings">Settings</string>
+    <string name="record">记录</string>
+    <string name="stop">暂停/继续</string>
+
+</resources>
