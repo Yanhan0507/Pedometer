@@ -8,5 +8,5 @@ Android Smartphone.
 
 ### Things to notice
 The .csv file is irrelevant to the implementation. Actually, it is a file that store the data we collect from cell phone sensor(
-Accelerometer). We used this data to analyze the noise type, and test the algorithm. You can delete this file, if you want.
+Accelerometer). We used this data to analyze the noise type, and test the algorithm. Feel free to delete these .csv files, if you want.
 
